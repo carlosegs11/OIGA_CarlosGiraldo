@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.api.security.register", "Service.api.security.register\Service.api.security.register.csproj", "{12DB3B95-6E41-4032-B5B9-D6753EE3A274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12DB3B95-6E41-4032-B5B9-D6753EE3A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12DB3B95-6E41-4032-B5B9-D6753EE3A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12DB3B95-6E41-4032-B5B9-D6753EE3A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12DB3B95-6E41-4032-B5B9-D6753EE3A274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E122303-2F67-4216-97C5-61D386B2456B}
+	EndGlobalSection
+EndGlobal
